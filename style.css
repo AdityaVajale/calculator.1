@@ -1,0 +1,27 @@
+input[type="button"] {
+  background-color: #000000;
+  border: none;
+  color: #faf5f5;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  margin: 5px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+input[type="button"]:hover {
+  background-color: #706c7a;
+}
+
+#result {
+  width: 200px;
+  height: 50px;
+  font-size: 30px;
+  text-align: right;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  background-color: #009dff;
+}
